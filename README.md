@@ -2,7 +2,7 @@
 Zalo For laravel
 1. How to install
 
-    composer require visualweber1/zalo-laravel
+    composer require zizizak/zalo-laravel
     
 2.Add to config/app.php
 
