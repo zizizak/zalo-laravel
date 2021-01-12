@@ -1,11 +1,11 @@
 {
-  "name": "visualweber1/zalo-laravel",
+  "name": "zizizak/zalo-laravel",
   "description": "Zalo Push Wrapper Laravel",
   "keywords": ["zalo", "webpush", "push", "laravel", "laravel 5"],
   "type": "library",
   "require": {
     "php": ">=5.4.0",
-    "zaloplatform/zalo-php-sdk": "^1.0"
+    "zaloplatform/zalo-php-sdk": "2.0.*"
   },
   "require-dev": {
    
